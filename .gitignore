@@ -1,0 +1,13 @@
+# 編譯產生的資料夾
+build/
+bin/
+out/
+
+# Visual Studio 暫存檔
+.vs/
+*.sln
+*.vcxproj
+
+# 作業系統暫存檔
+.DS_Store
+Thumbs.db
